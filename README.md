@@ -1,4 +1,4 @@
-# What is alloy2coq ?
+# What is alloy2coq?
 
 Alloy is both a formal language and a tool for software modeling. The
 language is basically first order relational logic. The analyzer is
