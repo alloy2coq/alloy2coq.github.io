@@ -30,7 +30,7 @@ Coming soon !
 
 ## Conferences with Proceedings
 
-1. Salwa Souaf and Frédéric Loulergue. A first step in the translation of Alloy to Coq. In International Conference on Formal Engineering Methods (ICFEM), LNCS, pages 455--469. Springer, November 2019, [doi http://dx.doi.org/10.1007/978-3-030-32409-4_28]
+1. Salwa Souaf and Frédéric Loulergue. A first step in the translation of Alloy to Coq. In International Conference on Formal Engineering Methods (ICFEM), LNCS, pages 455--469. Springer, November 2019, [doi](http://dx.doi.org/10.1007/978-3-030-32409-4_28]
 
 ## Thesis / Dissertation
 
@@ -38,6 +38,6 @@ Coming soon !
 
 ## Poster Presentation with Proceedings
 
-1. Salwa Souaf and Frédéric Loulergue. Strong security guarantees: from Alloy to Coq (poster). In International Conference on High Performance Computing and Simulation (HPCS), pages 1057--1058, Orléans, France, IEEE, 2018, [doi http://dx.doi.org/10.1109/HPCS.2018.00167]
+1. Salwa Souaf and Frédéric Loulergue. Strong security guarantees: from Alloy to Coq (poster). In International Conference on High Performance Computing and Simulation (HPCS), pages 1057--1058, Orléans, France, IEEE, 2018, [doi](http://dx.doi.org/10.1109/HPCS.2018.00167)
 
 
