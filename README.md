@@ -1,4 +1,4 @@
-# What is alloy2coq~?
+# What is alloy2coq ?
 
 Alloy is both a formal language and a tool for software modeling. The
 language is basically first order relational logic. The analyzer is
@@ -30,7 +30,7 @@ Coming soon !
 
 ## Conferences with Proceedings
 
-1. Salwa Souaf and Frédéric Loulergue. A first step in the translation of Alloy to Coq. In International Conference on Formal Engineering Methods (ICFEM), LNCS, pages 455--469. Springer, November 2019, [doi](http://dx.doi.org/10.1007/978-3-030-32409-4_28]
+1. Salwa Souaf and Frédéric Loulergue. A first step in the translation of Alloy to Coq. In International Conference on Formal Engineering Methods (ICFEM), LNCS, pages 455--469. Springer, November 2019, [doi](http://dx.doi.org/10.1007/978-3-030-32409-4_28)
 
 ## Thesis / Dissertation
 
