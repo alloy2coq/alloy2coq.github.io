@@ -1,0 +1,3 @@
+theme: jekyll-theme-slate
+title: "alloy2coq"
+description: "alloy2coq: Translate Alloy to Coq"
